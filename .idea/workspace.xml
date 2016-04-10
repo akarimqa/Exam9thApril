@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a521ee64-6f80-43ee-b9fc-cf00587baee9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/FindMissingNumber.java" afterPath="$PROJECT_DIR$/src/math/FindMissingNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/LowestNumber.java" afterPath="$PROJECT_DIR$/src/math/LowestNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/problems/Anagram.java" afterPath="$PROJECT_DIR$/src/string/problems/Anagram.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" afterPath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/problems/Permutation.java" afterPath="$PROJECT_DIR$/src/string/problems/Permutation.java" />
     </list>
     <ignored path="CoreNDSExamMarch2016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,12 +89,9 @@
       <file leaf-file-name="DuplicateWord.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/string/problems/DuplicateWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="135" selection-start-line="19" selection-start-column="135" selection-end-line="19" selection-end-column="135" />
-              <folding>
-                <element signature="e#526#543#0" expanded="true" />
-                <element signature="e#966#975#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="169">
+              <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -775,7 +768,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="23" width="1400" height="833" extended-state="1" />
+    <frame x="20" y="23" width="1400" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1035,12 +1028,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/string/problems/DuplicateWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="135" selection-start-line="19" selection-start-column="135" selection-end-line="19" selection-end-column="135" />
-          <folding>
-            <element signature="e#526#543#0" expanded="true" />
-            <element signature="e#966#975#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="169">
+          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+          <folding />
         </state>
       </provider>
     </entry>
