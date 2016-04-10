@@ -1,5 +1,8 @@
 package datastructure;
 
+import java.util.LinkedHashMap;
+import java.util.Map;
+
 public class UseMap {
 
 	public static void main(String[] args) {
@@ -9,6 +12,16 @@ public class UseMap {
 		 * Use For Each loop and while loop with Iterator to retrieve data.
 		 * 
 		 */
+		Map<String,String> map = new LinkedHashMap<String,String>();
+		map.put("BD", "DK");
+		map.put("India", "Delli");
+		map.put("Pakistan", "Islamabad");
+
+		for(Map.Entry<String,String> cursor:map.entrySet()){
+			System.out.println("Key: " + cursor.getKey()+" ------->        "+ "Value: " + cursor.getValue());
+		}
+
+
 
 	}
 
